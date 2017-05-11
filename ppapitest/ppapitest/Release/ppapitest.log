@@ -1,0 +1,9 @@
+﻿  AGVideoWnd.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  stub.cc
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+stub.cc(214): warning C4018: “<”: 有符号/无符号不匹配
+     正在创建库 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ppapitest\Release\ppapitest.lib 和对象 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ppapitest\Release\ppapitest.exp
+  正在生成代码
+  已完成代码的生成
+  ppapitest.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ppapitest\Release\ppapitest.dll

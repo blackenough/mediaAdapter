@@ -1,0 +1,19 @@
+﻿  stub.cc
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+stub.cc(147): warning C4244: “return”: 从“WPARAM”转换到“DWORD”，可能丢失数据
+stub.cc(127): warning C4477: “swprintf_s”: 格式字符串“%08x”需要类型“unsigned int”的参数，但可变参数 5 拥有了类型“HWND”
+stub.cc(127): warning C4313: “swprintf_s”: 格式字符串中的“%x”与“HWND”类型的参数 5 冲突
+stub.cc(127): warning C4477: “swprintf_s”: 格式字符串“%08x”需要类型“unsigned int”的参数，但可变参数 6 拥有了类型“HWND”
+stub.cc(127): warning C4313: “swprintf_s”: 格式字符串中的“%x”与“HWND”类型的参数 6 冲突
+stub.cc(158): warning C4477: “swprintf_s”: 格式字符串“%08x”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“HWND”
+stub.cc(158): warning C4313: “swprintf_s”: 格式字符串中的“%x”与“HWND”类型的参数 3 冲突
+stub.cc(181): warning C4477: “swprintf_s”: 格式字符串“%08x”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“HWND”
+stub.cc(181): warning C4313: “swprintf_s”: 格式字符串中的“%x”与“HWND”类型的参数 3 冲突
+stub.cc(181): warning C4477: “swprintf_s”: 格式字符串“%08x”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“HWND”
+stub.cc(181): warning C4313: “swprintf_s”: 格式字符串中的“%x”与“HWND”类型的参数 4 冲突
+    正在创建库 C:\Users\Administrator\documents\visual studio 2015\Projects\ppapitest\x64\Release\ppapitest.lib 和对象 C:\Users\Administrator\documents\visual studio 2015\Projects\ppapitest\x64\Release\ppapitest.exp
+  正在生成代码
+  All 137 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  ppapitest.vcxproj -> C:\Users\Administrator\documents\visual studio 2015\Projects\ppapitest\x64\Release\ppapitest.dll
+  ppapitest.vcxproj -> C:\Users\Administrator\documents\visual studio 2015\Projects\ppapitest\x64\Release\ppapitest.pdb (Full PDB)
